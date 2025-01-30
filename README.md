@@ -1,2 +1,1 @@
-# hwsolutions
-# source hwsol/bin/activate
+'bash setup.sh'
